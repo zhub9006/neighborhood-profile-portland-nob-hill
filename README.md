@@ -8,43 +8,40 @@
 - **County**: Multnomah County
 - **Place Rank**: 30 (high importance residential area)
 
-## Walkability & Livability
+## Walkability & Livability Scores
 
-### Walk Score (estimated from OSM data)
-The Nob Hill / Northwest District is one of Portland's most walkable neighborhoods. Key indicators:
-- **High pedestrian infrastructure**: Extensive sidewalk network, pedestrian-activated crosswalks
-- **Mixed-use zoning**: Ground-floor retail along NW 23rd Avenue and NW Irving Street
-- **Transit proximity**: Multiple TriMet bus lines serve the area; close to the NW 23rd / NW Thurman transit corridor
-- **Bikeability**: Buffered bike lanes on NW 23rd Ave; part of Portland's bike boulevard network
-- **Street grid**: Dense, interconnected street pattern ideal for walking and cycling
+| Category | Score (0-10) | Count | Avg Distance |
+|----------|:---:|:---:|:---:|
+| **Overall** | **7.0** | — | — |
+| **Walkability** | **10** | — | — |
+| Restaurants | 9.8 | 89 | 543m |
+| Healthcare | 9.8 | 6 | 674m |
+| Public Transport | 9.4 | 8 | 352m |
+| Shopping | 8.8 | 16 | 566m |
+| Services | 8.8 | 14 | 729m |
+| Sports | 8.7 | 11 | 810m |
+| Groceries | 7.1 | 3 | 668m |
+| Parks | 4.3 | 3 | 881m |
+| Education | 2.9 | 2 | 853m |
+| Entertainment | 0 | 0 | — |
 
-### Transit Access
-- **TriMet Bus Lines**: Lines 16, 19, and 70 serve NW 23rd Avenue
-- **Proximity to transit stops**: Multiple stops within 400m radius
-- **Bikeshare**: PBOT Biketown stations nearby
+### Key Strengths
+- ** Exceptional walkability** — full score of 10/10, driven by dense pedestrian infrastructure, mixed-use zoning, and extensive sidewalk network
+- **Outstanding dining scene** — 89 restaurants within 1km, including Ethiopian, Thai, Burmese, Indian, Italian, Mexican, Vietnamese, Korean, and Greek cuisine
+- **Excellent transit access** — Portland Streetcar stops (NW 23rd & Marshall, NW Northrup & 22nd, NW Lovejo y & 22nd) plus TriMet bus lines all within 400m
+- **Strong healthcare access** — 6 facilities including 2 Walgreens pharmacies within walking distance
+- **Vibrant shopping corridor** — 16 independent retail shops on NW 23rd Ave (Title Nine, Faherty, Marine Layer, Cotopaxi, Arc'teryx, prAna)
+- **Good fitness options** — 11 sports/fitness venues including YogaSix, Orangetheory Fitness, LA Fitness, and Portland Aikikai
 
-### Green Spaces & Recreation
-- **Proximity to parks**: Neighborhood parks and green strips within walking distance
-- **Street trees**: Mature street tree canopy along residential streets
-- **Community garden potential**: Vacant lot conversion opportunities in the district
+### Areas for Improvement
+- **Education** — Only 2 schools within 1km (Bridges Middle School, Class Academy); elementary school options are limited
+- **Parks** — Only 3 small playgrounds within 1km; no full-size parks or green spaces
+- **Entertainment** — No entertainment venues (cinemas, theaters, music venues) within 1km
 
-### Education
-- **Nearby schools**: Access to Portland Public Schools in the Northwest District
-- **Early childhood**: Several daycare and preschool facilities in the area
+## Detailed Data
 
-### Dining & Shopping
-- **Local businesses**: NW 23rd Avenue features independent shops, cafes, and restaurants
-- **Grocery access**: Small-format grocery options within the neighborhood
-- **Restaurant scene**: Diverse dining options along the commercial corridors
-
-### Healthcare
-- **Nearby clinics**: Healthcare facilities within the Northwest District
-- **Pharmacy access**: Prescription services available within walking distance
-
-### Housing & Land Use
-- **Housing mix**: Predominantly single-family homes with some duplexes and small apartment buildings
-- **Housing age**: Many homes from early-to-mid 20th century
-- **Zoning**: Primarily single-family residential (R2, R3 zones); mixed-use along NW 23rd Ave commercial corridor
+Full categorized amenity data with coordinates, distances, and contact info is available in:
+- **[`data/1234-nw-23rd-avenue.json`](data/1234-nw-23rd-avenue.json)** — Complete walkability, amenities, and livability dataset
 
 ## Data Sources
 - OpenStreetMap (OSM) via OSM MCP Server
