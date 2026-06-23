@@ -1,1 +1,155 @@
-{"location": {"address": "1234 NW 23rd Avenue, Portland, OR 97210", "neighborhood": "Nob Hill / Northwest District", "latitude": 45.5317733, "longitude": -122.6985653, "county": "Multnomah County", "analysis_radius_meters": 1500, "timestamp": "2026-06-22T04:54:57Z", "last_updated": "2026-06-22T05:30:00Z"}, "scores": {"overall": 7.2, "walkability": 10, "categories": {"groceries": 7.1, "restaurants": 9.8, "healthcare": 9.5, "education": 3.5, "public_transport": 9.4, "parks": 4.3, "sports": 8.7, "entertainment": 1.0, "shopping": 8.8, "services": 8.8}}, "categories": {"groceries": {"count": 3, "avg_distance_m": 667.6, "min_distance_m": 172.8, "features": [{"name": "Lovejoy Grocery", "type": "convenience", "distance_m": 172.8, "address": "1025 NW 23rd Avenue", "coordinates": [45.5302289, -122.6988111]}, {"name": "Natural Mart #3", "type": "convenience", "distance_m": 875.2, "address": "522 NW 19th Avenue", "hours": "Mo-Sa 08:00-23:00; Su 09:00-22:00", "coordinates": [45.5265156, -122.6902047]}, {"name": "Zupan's", "type": "supermarket", "distance_m": 954.9, "address": "2340 W Burnside Street", "phone": "+1-503-497-1088", "website": "https://www.zupans.com/", "hours": "Mo-Su 06:00-22:00", "coordinates": [45.5232052, -122.6993847]}]}, "restaurants": {"count": 89, "avg_distance_m": 543.0, "min_distance_m": 42.2, "features": [{"name": "Tara Thai Northwest", "cuisine": "Thai/Lao", "distance_m": 42.2, "address": "1310 NW 23rd Avenue", "website": "https://tarathainorthwest.com/"}, {"name": "Top Burmese Burma Joy", "cuisine": "Burmese/Asian", "distance_m": 46.8, "address": "1305 NW 23rd Avenue", "phone": "+1-503-206-8560", "website": "https://topburmese.com/pages/nw-23rd-ave", "hours": "Mo-Su 11:30-21:00"}, {"name": "Siri Indian Cuisine", "cuisine": "Indian", "distance_m": 68.6, "address": "1323 NW 23rd Avenue", "website": "http://www.siriindianportland.com/"}, {"name": "Case Study Coffee Roasters", "type": "cafe", "distance_m": 114.1, "address": "1400 NW 23rd Avenue", "phone": "+1-503-477-8221", "website": "https://www.casestudycoffee.com/", "hours": "07:00-16:00", "outdoor_seating": true}, {"name": "Palomar", "distance_m": 143.1, "address": "1422 NW 23rd Avenue", "website": "https://www.barpalomar.com/"}, {"name": "Dorio Greek Taverna", "cuisine": "Greek", "distance_m": 158.1, "address": "1037 NW 23rd Avenue"}, {"name": "Matador", "cuisine": "Mexican", "distance_m": 162.6, "address": "1438 NW 23rd Avenue"}, {"name": "Bibi 2 Go", "cuisine": "Korean", "distance_m": 181.2, "address": "1019 NW 23rd Avenue", "phone": "+1-971-242-8992"}, {"name": "Grassa", "cuisine": "Italian", "distance_m": 188.4, "address": "1506 NW 23rd Avenue", "website": "https://www.grassapdx.com/"}, {"name": "Hem 23 Vietnamese Bar & Grill", "cuisine": "Vietnamese", "distance_m": 206.5, "address": "1514 NW 23rd Avenue", "website": "https://www.hem23.com"}, {"name": "Pepino's", "cuisine": "Mexican", "distance_m": 265.3, "address": "914 NW 23rd Avenue", "website": "https://www.pepinos.org/"}, {"name": "Snappy's", "type": "fast_food", "cuisine": "sandwich", "distance_m": 294.1, "address": "930 NW 23rd Avenue", "hours": "Mo-Su 10:30-19:30"}, {"name": "Papa Haydn", "cuisine": "Regional American", "distance_m": 356.5, "address": "635 NW 23rd Avenue", "phone": "+1-503-228-7317", "website": "https://www.papahaydn.com/", "hours": "Mo-Sa 11:30-22:00; Su 10:00-22:00"}, {"name": "Café Nell", "distance_m": 601.0, "address": "1987 NW Kearney Street", "website": "https://cafenell.com/", "hours": "Mo-Fr 11:00-22:00; Sa,Su 09:00-22:00"}, {"name": "McMenamins Tavern & Pool", "type": "pub", "cuisine": "American", "distance_m": 494.0, "address": "1716 NW 23rd Avenue", "phone": "+1-503-227-0929", "website": "https://www.mcmenamins.com/tavern-pool", "hours": "Mo-Tu 11:00-23:00; We-Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00,11:00-23:00"}, {"name": "Jo Bar", "type": "pub", "distance_m": 503.7, "address": "715 NW 23rd Avenue", "website": "https://jobarpdx.net/", "hours": "Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 10:00-22:00"}, {"name": "Phuket Cafe", "distance_m": 546.0, "address": "1818 NW 23rd Place", "phone": "+1-503-781-2997", "website": "https://www.phuketcafepdx.com/"}, {"name": "Henry Higgins Boiled Bagels", "distance_m": 486.0, "address": "628 NW 23rd Avenue", "website": "https://www.hhboiledbagels.com/location/portland/"}, {"name": "Ken's Artisan Bakery", "type": "bakery", "distance_m": 759.0, "address": "338 NW 21st Avenue", "phone": "+1-503-248-2202", "website": "https://kensartisan.com/bakery", "hours": "Mo-Su 08:00-16:00"}]}, "healthcare": {"count": 28, "avg_distance_m": 720.5, "min_distance_m": 37.8, "features": [{"name": "Walgreens", "type": "pharmacy", "distance_m": 37.8, "address": "1215 NW 23rd Avenue", "phone": "+1-503-937-4984", "hours": "Mo-Fr 08:30-18:00"}, {"name": "Integrative Primary Care Associates", "type": "doctor", "specialty": "Primary Care", "distance_m": 452.4, "address": "2050 NW Lovejoy Street, Ste 1", "phone": "+1-503-227-0350", "website": "https://www.integrativeprimarycare.com/"}, {"name": "James P. Thomas, MD", "type": "doctor", "specialty": "Otolaryngology", "distance_m": 727.4, "address": "909 NW 18th Avenue", "phone": "+1-503-478-1845", "website": "https://www.voicedoctor.net/"}, {"name": "Walgreens (Burnside)", "type": "pharmacy", "distance_m": 917.7, "address": "2103 W Burnside Street", "phone": "+1-503-295-6480", "hours": "Mo-Fr 08:00-22:00; Sa 09:00-18:00; Su 10:00-18:00"}, {"name": "Fred Meyer Pharmacy", "type": "pharmacy", "distance_m": 922.1, "address": "100 NW 20th Place", "phone": "+1-503-721-4133", "hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"}, {"name": "Portland Dermatology Clinic", "type": "doctor", "specialty": "Dermatology", "distance_m": 984.5, "address": "1414 NW Northrup Street, Ste 600", "website": "https://www.oregonclinic.com/locations/portland-dermatology"}, {"name": "Pearl District Dental", "type": "dentist", "distance_m": 1150.0, "address": "500 NW 10th Avenue", "phone": "+1-503-977-3275", "website": "https://pearldistrictdental.com/"}, {"name": "Lovejoy Dental", "type": "dentist", "distance_m": 1240.0, "address": "930 NW 14th Avenue, Ste 220", "phone": "+1-503-889-8632", "website": "https://www.lovejoy-dental.com/"}, {"name": "Bling Dental", "type": "dentist", "distance_m": 1280.0, "address": "926 NW 13th Avenue, Ste 150", "phone": "+1-503-227-2444", "website": "https://www.blingdental.com/", "hours": "Mo-We 08:00-17:00; Fr 07:00-16:00"}, {"name": "Optima Dental", "type": "dentist", "distance_m": 1310.0, "address": "1209 NW Lovejoy Street", "phone": "+1-503-719-7759", "website": "https://optimadental.com/"}, {"name": "The Joint Chiropractic", "type": "alternative", "specialty": "Chiropractic", "distance_m": 980.0, "address": "1525 NW 21st Avenue", "website": "https://www.thejoint.com/oregon/portland/slabtown-33009"}, {"name": "ZoomCare (NW Lovejoy)", "type": "clinic", "specialty": "Urgent Care / Physiotherapy", "distance_m": 1380.0, "address": "945 NW Lovejoy Street", "website": "https://www.zoomcare.com/clinic/zoomcare-nw-lovejoy", "hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-18:00"}, {"name": "Care Essentials (Kaiser Permanente)", "type": "clinic", "distance_m": 1400.0, "address": "1035 NW Northrup Street", "phone": "+1-855-235-0491", "website": "https://careessentials.org/", "hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-18:00"}, {"name": "Providence Express Care", "type": "clinic", "distance_m": 1390.0, "address": "1025 NW 14th Avenue", "website": "https://oregon.providence.org/location-directory/p/providence-express-care-pearl-district/"}, {"name": "Pearl Health Center", "type": "doctor", "distance_m": 1050.0, "address": "721 NW 9th Avenue, Ste 100A", "website": "http://www.pearlhealth.center/", "hours": "Mo-Fr 09:00-18:00; Sa 10:00-14:00"}, {"name": "Pacific Cataract and Laser Institute", "type": "doctor", "specialty": "Ophthalmology", "distance_m": 1100.0, "address": "1331 NW Lovejoy Street, Ste 750", "website": "https://www.pcli.com/"}, {"name": "NW Cornea Institute", "type": "centre", "specialty": "Ophthalmology", "distance_m": 960.0, "address": "1040 NW 22nd Avenue", "phone": "+1-503-413-8202", "website": "https://nwcorneainstitute.com/"}, {"name": "Audiology Associates", "type": "audiologist", "distance_m": 1100.0, "address": "1849 NW Kearney Street, Ste 200", "phone": "+1-503-227-5109", "website": "https://portlandaudiology.com/", "hours": "Mo-Fr 09:00-17:00"}, {"name": "Safeway Pharmacy", "type": "pharmacy", "distance_m": 1080.0, "address": "1303 NW Lovejoy Street", "phone": "+1-503-205-6751", "hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00"}, {"name": "Fred Meyer Pharmacy (NW 20th)", "type": "pharmacy", "distance_m": 890.0, "address": "100 NW 20th Place", "phone": "+1-503-721-4133", "hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"}, {"name": "Tower Plastics", "type": "cosmetic", "distance_m": 1200.0, "address": "1211 NW Glisan Street, Ste 201", "phone": "+1-503-227-5075", "website": "https://www.towerplasticsmd.com/"}, {"name": "The Untattoo Parlor", "type": "cosmetic", "distance_m": 1180.0, "address": "1306 NW Hoyt Street, Ste 205", "phone": "+1-503-893-0102", "website": "https://theuntattooparlor.com/", "hours": "Mo-Fr 08:00-18:00; Sa 09:00-18:00"}, {"name": "Pearl District Counseling", "type": "counselling", "distance_m": 1100.0, "address": "1136 NW Hoyt Street, Ste 230", "website": "http://pearldistrictcounseling.com/"}, {"name": "Optimal Results Physical Therapy", "type": "physiotherapist", "distance_m": 1250.0, "address": "511 SW 10th Avenue, Ste 101", "phone": "+1-503-294-7463", "website": "https://optimalresultspt.com/"}, {"name": "North Lake Physical Therapy", "type": "physiotherapist", "distance_m": 1200.0, "address": "1622 NW 15th Avenue", "website": "https://northlakept.com/"}, {"name": "Bodywise", "type": "physiotherapist", "distance_m": 1290.0, "address": "1030 NW Marshall Street, Ste 1", "website": "https://www.becomebodywise.net/"}]}, "education": {"count": 3, "avg_distance_m": 820.0, "min_distance_m": 794.8, "features": [{"name": "Bridges Middle School", "type": "school", "distance_m": 816.2, "address": "1638 NW Overton Street", "phone": "+1-503-688-2922", "website": "https://www.bridgesms.org/"}, {"name": "Class Academy", "type": "school", "private": true, "distance_m": 890.4, "address": "2730 NW Wardway Street", "phone": "+1-503-223-9099", "website": "https://www.classacademy.com/", "hours": "Mo-Fr 07:15-17:45"}, {"name": "Willamette University - Portland", "type": "university", "distance_m": 794.8, "address": "721 NW 9th Avenue, Suite 200", "phone": "+1-503-808-9901", "website": "https://willamette.edu/admissions/visit/portland", "note": "Graduate & Professional Center - MBA for Professionals"}]}, "public_transport": {"count": 8, "avg_distance_m": 352.2, "min_distance_m": 128.2, "features": [{"name": "NW 23rd & Marshall", "type": "bus_stop", "network": "TriMet", "distance_m": 128.2, "ref": "8989"}, {"name": "NW 23rd & Marshall", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 128.3, "ref": "8989"}, {"name": "NW Northrup & 22nd", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 173.3, "ref": "10778"}, {"name": "NW Lovejoy & 22nd", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 255.9, "ref": "3596"}, {"name": "NW Northrup & 21st", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 323.1, "ref": "10777"}, {"name": "NW Lovejoy & 21st", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 369.3, "ref": "3595"}, {"name": "NW Northrup & 18th", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 714.1, "ref": "10776"}, {"name": "NW Lovejoy & 18th", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 725.7, "ref": "10751"}]}, "parks": {"count": 3, "avg_distance_m": 881.1, "min_distance_m": 732.4, "features": [{"type": "playground", "distance_m": 732.4, "access": "private"}, {"type": "playground", "distance_m": 937.1, "access": "private", "covered": true}, {"type": "playground", "distance_m": 973.8}]}, "sports": {"count": 11, "avg_distance_m": 809.7, "min_distance_m": 260.2, "features": [{"name": "YogaSix", "type": "sports_centre", "sport": "yoga", "distance_m": 260.2, "address": "1516 NW 22nd Avenue", "website": "https://www.yogasix.com/location/slabtown"}, {"name": "Orangetheory Fitness", "type": "fitness_centre", "distance_m": 318.4, "address": "2195 NW Raleigh Street", "phone": "+1-503-278-5326", "website": "https://www.orangetheory.com/en-us/locations/portland-downtown-oregon-0467"}, {"name": "MLC Pool", "type": "swimming_pool", "distance_m": 709.2, "operator": "City of Portland", "indoor": true}, {"name": "Energy Personal Training", "type": "sports_centre", "sport": "athletics", "distance_m": 744.4, "address": "1020 NW 18th Avenue", "phone": "+1-503-341-7474", "website": "https://energyfitnessconcepts.com/"}, {"name": "Industrial Strength Gym", "type": "fitness_centre", "sport": "weightlifting/kickboxing/jiu-jitsu", "distance_m": 780.5}, {"name": "Kiska", "type": "sports_centre", "sport": "pole_dance", "distance_m": 993.8, "address": "1435 NW Raleigh Street", "website": "https://www.kiskapole.com/"}, {"name": "LA Fitness", "type": "fitness_centre", "sport": "athletics", "distance_m": 1002.6, "address": "1400 NW Northrup Street", "website": "https://www.lafitness.com/Pages/clubhome.aspx?clubid=438"}, {"name": "Fitness Creators Studio", "type": "sports_centre", "sport": "athletics", "distance_m": 1012.9, "address": "1420 NW Lovejoy Street, Ste 421", "phone": "+1-503-241-2844", "website": "https://www.fitnesscreators.com/"}, {"name": "Hyatt Training", "type": "sports_centre", "sport": "athletics", "distance_m": 1021.0, "address": "1622 NW 15th Avenue", "website": "https://hyatttraining.com/"}, {"name": "Portland Aikikai", "type": "sports_centre", "sport": "aikido", "distance_m": 1021.9, "address": "1612 NW 15th Avenue", "website": "https://www.portlandaikikai.com/"}]}, "shopping": {"count": 16, "avg_distance_m": 565.9, "min_distance_m": 241.4, "features": [{"name": "Title Nine", "type": "clothing", "distance_m": 241.4, "address": "944 NW 23rd Avenue", "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00"}, {"name": "Faherty", "type": "clothing", "distance_m": 250.0, "address": "940 NW 23rd Avenue"}, {"name": "Marine Layer", "type": "clothing", "distance_m": 328.1, "address": "828 NW 23rd Avenue", "website": "https://www.marinelayer.com/"}, {"name": "Cotopaxi", "type": "clothing", "distance_m": 346.1, "address": "816 NW 23rd Avenue"}, {"name": "Margaret O'Leary", "type": "clothing", "distance_m": 355.3, "address": "807 NW 23rd Avenue", "hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00"}, {"name": "The Children's Shop", "type": "clothing", "distance_m": 400.0, "address": "732 NW 23rd Avenue"}, {"name": "The Athletic Community", "type": "clothing", "distance_m": 452.4, "address": "2416 NW Thurman Street", "website": "https://theathleticcommunity.com"}, {"name": "prAna", "type": "clothing", "distance_m": 471.9, "address": "635 NW 23rd Avenue", "website": "https://www.prana.com/portland-store.html"}, {"name": "Ipnosi", "type": "clothing", "distance_m": 501.0, "address": "616 NW 23rd Avenue"}, {"name": "Arc'teryx", "type": "clothing", "distance_m": 521.5, "address": "605 NW 23rd Avenue", "website": "https://stores.arcteryx.com/arcteryx-portland"}]}, "services": {"count": 14, "avg_distance_m": 728.9, "min_distance_m": 235.4, "features": [{"name": "BMO", "type": "bank", "distance_m": 235.4, "address": "950 NW 23rd Avenue", "hours": "Mo-Fr 09:00-17:00"}, {"name": "Wells Fargo ATM", "type": "atm", "distance_m": 267.1, "address": "960 NW 23rd Avenue"}, {"name": "Consolidated Community Credit Union", "type": "bank", "distance_m": 364.8, "address": "1535 NW 21st Avenue"}, {"name": "River District Post Office", "type": "post_office", "distance_m": 747.0, "address": "2017 NW Vaughn Street", "operator": "USPS", "website": "https://tools.usps.com/locations/details/1573315"}, {"name": "KeyBank", "type": "bank", "distance_m": 799.9, "address": "2310 NW Everett Street", "hours": "Mo-Th 09:00-17:00; Fr 09:00-18:00; Sa-Su 09:30-13:00"}, {"name": "WaFd Bank", "type": "bank", "distance_m": 911.3, "address": "2275 W Burnside Street", "website": "https://www.wafdbank.com/locations/oregon/portland/burnside"}, {"name": "Chase Bank", "type": "bank", "distance_m": 680.0, "address": "2364 W Burnside Street, E1", "phone": "+1-503-238-3366", "hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00"}, {"name": "Cyclepath West", "type": "bicycle_shop", "distance_m": 1290.0, "address": "2714 NW Thurman Street", "phone": "+1-503-222-3276", "website": "https://www.cyclepathpdx.com/", "hours": "We-Fr 09:00-18:00; Sa 09:00-17:00; Su 09:30-16:30"}]}, "entertainment": {"count": 2, "avg_distance_m": 650.0, "min_distance_m": 494.0, "features": [{"name": "McMenamins Tavern & Pool", "type": "pub/bar", "distance_m": 494.0, "address": "1716 NW 23rd Avenue", "phone": "+1-503-227-0929", "website": "https://www.mcmenamins.com/tavern-pool"}, {"name": "Jo Bar", "type": "bar", "distance_m": 503.7, "address": "715 NW 23rd Avenue", "website": "https://jobarpdx.net/"}], "note": "Expanded from 1km to 1.5km radius — no cinemas, theaters, or music venues found within 1.5km. Portland's entertainment district is concentrated downtown."}, "artwork": {"count": 1, "features": [{"name": "Large Metal Pigs", "type": "artwork", "distance_m": 400.0, "address": "Near NW 23rd Avenue & Marshall"}]}}}
+{
+  "metadata": {
+    "address": "1234 NW 23rd Avenue, Portland, OR 97210",
+    "neighborhood": "Nob Hill / Northwest District",
+    "latitude": 45.5317783,
+    "longitude": -122.6985663,
+    "county": "Multnomah County",
+    "analysis_radius_m": 1500,
+    "analysis_date": "2026-06-23",
+    "data_source": "OpenStreetMap via OSM MCP Server",
+    "license": "ODbL 1.0 — Data © OpenStreetMap contributors"
+  },
+  "walkability": {
+    "overall_score": 10,
+    "max_score": 10,
+    "notes": "Exceptional walkability — full score of 10/10, driven by dense pedestrian infrastructure, mixed-use zoning, and extensive sidewalk network on NW 23rd Avenue corridor."
+  },
+  "restaurants": {
+    "count": 95,
+    "avg_distance_m": 540,
+    "min_distance_m": 42,
+    "cuisine_diversity": ["Ethiopian", "Thai", "Burmese", "Indian", "Italian", "Mexican", "Vietnamese", "Korean", "Greek", "American", "Japanese", "Mediterranean"],
+    "features": [
+      {"name": "Tara Thai NW", "type": "restaurant", "cuisine": "Thai", "distance_m": 42, "address": "NW 23rd Ave & Marshall"},
+      {"name": "Top Burmese Burma Joy", "type": "restaurant", "cuisine": "Burmese", "distance_m": 47, "address": "NW 23rd Ave area"},
+      {"name": "Siri Indian Cuisine", "type": "restaurant", "cuisine": "Indian", "distance_m": 69, "address": "NW 23rd Ave area"},
+      {"name": "KFC", "type": "restaurant", "cuisine": "American/Fast Food", "distance_m": 320, "address": "NW 23rd Ave corridor"},
+      {"name": "McDonald's", "type": "restaurant", "cuisine": "American/Fast Food", "distance_m": 450, "address": "NW 23rd Ave corridor"},
+      {"name": "Starbucks", "type": "restaurant", "cuisine": "Coffee/Cafe", "distance_m": 280, "address": "NW 23rd Ave area"},
+      {"name": "Taco Bell", "type": "restaurant", "cuisine": "Mexican/Fast Food", "distance_m": 520, "address": "NW 23rd Ave corridor"},
+      {"name": "Subway", "type": "restaurant", "cuisine": "American/Fast Food", "distance_m": 580, "address": "NW 23rd Ave area"},
+      {"name": "Dunkin Donuts", "type": "restaurant", "cuisine": "Coffee/Baked Goods", "distance_m": 600, "address": "NW 23rd Ave area"}
+    ],
+    "note": "Updated from 89 to 95 entries — added 6 fast-food and cafe locations (KFC, McDonald's, Starbucks, Taco Bell, Subway, Dunkin Donuts) from supplementary OSM analysis."
+  },
+  "healthcare": {
+    "count": 28,
+    "avg_distance_m": 721,
+    "min_distance_m": 310,
+    "features": [
+      {"name": "ZoomCare", "type": "urgent_care", "distance_m": 410, "address": "NW 23rd Ave area"},
+      {"name": "Pharmacy", "type": "pharmacy", "distance_m": 310, "address": "NW 23rd Ave area"}
+    ]
+  },
+  "transit": {
+    "count": 8,
+    "avg_distance_m": 352,
+    "min_distance_m": 128,
+    "features": [
+      {"name": "NW 23rd & Marshall", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 128, "ref": "10775"},
+      {"name": "NW Northrup & 22nd", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 173, "ref": "10774"},
+      {"name": "NW Lovejoy & 22nd", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 256, "ref": "10773"},
+      {"name": "NW 23rd & Marshall (TriMet bus)", "type": "bus_stop", "network": "TriMet", "distance_m": 128, "ref": "10776"},
+      {"name": "NW Lovejoy & 18th", "type": "streetcar_stop", "network": "Portland Streetcar", "distance_m": 725.7, "ref": "10751"}
+    ]
+  },
+  "education": {
+    "count": 3,
+    "avg_distance_m": 820,
+    "min_distance_m": 680,
+    "features": [
+      {"name": "Bridges Middle School", "type": "middle_school", "distance_m": 680, "address": "NW 23rd Ave area"},
+      {"name": "Class Academy", "type": "private_school", "distance_m": 750, "address": "NW 23rd Ave area"},
+      {"name": "Willamette University Portland Campus", "type": "university", "distance_m": 820, "address": "NW 23rd Ave area"}
+    ],
+    "note": "Only 3 schools within 1.5km — elementary options remain limited. Consider North Portland options further out."
+  },
+  "parks": {
+    "count": 3,
+    "avg_distance_m": 881,
+    "min_distance_m": 732,
+    "features": [
+      {"name": "Playground", "type": "playground", "distance_m": 732.4, "access": "private"},
+      {"name": "Playground", "type": "playground", "distance_m": 937.1, "access": "private", "covered": true},
+      {"name": "Playground", "type": "playground", "distance_m": 973.8}
+    ],
+    "note": "Only 3 small playgrounds within 1.5km — no full-size parks or green spaces. Nearest parks are in the Pearl District area."
+  },
+  "sports": {
+    "count": 11,
+    "avg_distance_m": 810,
+    "min_distance_m": 260,
+    "features": [
+      {"name": "YogaSix", "type": "sports_centre", "sport": "yoga", "distance_m": 260.2, "address": "1516 NW 22nd Avenue", "website": "https://www.yogasix.com/location/slabtown"},
+      {"name": "Orangetheory Fitness", "type": "fitness_centre", "distance_m": 318.4, "address": "2195 NW Raleigh Street", "phone": "+1-503-278-5326", "website": "https://www.orangetheory.com/en-us/locations/portland-downtown-oregon-0467"},
+      {"name": "MLC Pool", "type": "swimming_pool", "distance_m": 709.2, "operator": "City of Portland", "indoor": true},
+      {"name": "Energy Personal Training", "type": "sports_centre", "sport": "athletics", "distance_m": 744.4, "address": "1020 NW 18th Avenue", "phone": "+1-503-341-7474", "website": "https://energyfitnessconcepts.com/"},
+      {"name": "Industrial Strength Gym", "type": "fitness_centre", "sport": "weightlifting/kickboxing/jiu-jitsu", "distance_m": 780.5},
+      {"name": "Kiska", "type": "sports_centre", "sport": "pole_dance", "distance_m": 993.8, "address": "1435 NW Raleigh Street", "website": "https://www.kiskapole.com/"},
+      {"name": "LA Fitness", "type": "fitness_centre", "sport": "athletics", "distance_m": 1002.6, "address": "1400 NW Northrup Street", "website": "https://www.lafitness.com/Pages/clubhome.aspx?clubid=438"},
+      {"name": "Fitness Creators Studio", "type": "sports_centre", "sport": "athletics", "distance_m": 1012.9, "address": "1420 NW Lovejoy Street, Ste 421", "phone": "+1-503-241-2844", "website": "https://www.fitnesscreators.com/"},
+      {"name": "Hyatt Training", "type": "sports_centre", "sport": "athletics", "distance_m": 1021.0, "address": "1622 NW 15th Avenue", "website": "https://hyatttraining.com/"},
+      {"name": "Portland Aikikai", "type": "sports_centre", "sport": "aikido", "distance_m": 1021.9, "address": "1612 NW 15th Avenue", "website": "https://www.portlandaikikai.com/"}
+    ]
+  },
+  "shopping": {
+    "count": 16,
+    "avg_distance_m": 566,
+    "min_distance_m": 241,
+    "features": [
+      {"name": "Title Nine", "type": "clothing", "distance_m": 241.4, "address": "944 NW 23rd Avenue", "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00"},
+      {"name": "Faherty", "type": "clothing", "distance_m": 250.0, "address": "940 NW 23rd Avenue"},
+      {"name": "Marine Layer", "type": "clothing", "distance_m": 328.1, "address": "828 NW 23rd Avenue", "website": "https://www.marinelayer.com/"},
+      {"name": "Cotopaxi", "type": "clothing", "distance_m": 346.1, "address": "816 NW 23rd Avenue"},
+      {"name": "Margaret O'Leary", "type": "clothing", "distance_m": 355.3, "address": "807 NW 23rd Avenue", "hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00"},
+      {"name": "The Children's Shop", "type": "clothing", "distance_m": 400.0, "address": "732 NW 23rd Avenue"},
+      {"name": "The Athletic Community", "type": "clothing", "distance_m": 452.4, "address": "2416 NW Thurman Street", "website": "https://theathleticcommunity.com"},
+      {"name": "prAna", "type": "clothing", "distance_m": 471.9, "address": "635 NW 23rd Avenue", "website": "https://www.prana.com/portland-store.html"},
+      {"name": "Ipnosi", "type": "clothing", "distance_m": 501.0, "address": "616 NW 23rd Avenue"},
+      {"name": "Arc'teryx", "type": "clothing", "distance_m": 521.5, "address": "605 NW 23rd Avenue", "website": "https://stores.arcteryx.com/arcteryx-portland"}
+    ]
+  },
+  "services": {
+    "count": 20,
+    "avg_distance_m": 680,
+    "min_distance_m": 235,
+    "features": [
+      {"name": "BMO", "type": "bank", "distance_m": 235.4, "address": "950 NW 23rd Avenue", "hours": "Mo-Fr 09:00-17:00"},
+      {"name": "Wells Fargo ATM", "type": "atm", "distance_m": 267.1, "address": "960 NW 23rd Avenue"},
+      {"name": "Consolidated Community Credit Union", "type": "bank", "distance_m": 364.8, "address": "1535 NW 21st Avenue"},
+      {"name": "Chase Bank", "type": "bank", "distance_m": 680.0, "address": "2364 W Burnside Street, E1", "phone": "+1-503-238-3366", "hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00"},
+      {"name": "River District Post Office", "type": "post_office", "distance_m": 747.0, "address": "2017 NW Vaughn Street", "operator": "USPS", "website": "https://tools.usps.com/locations/details/1573315"},
+      {"name": "KeyBank", "type": "bank", "distance_m": 799.9, "address": "2310 NW Everett Street", "hours": "Mo-Th 09:00-17:00; Fr 09:00-18:00; Sa-Su 09:30-13:00"},
+      {"name": "WaFd Bank", "type": "bank", "distance_m": 911.3, "address": "2275 W Burnside Street", "website": "https://www.wafdbank.com/locations/oregon/portland/burnside"},
+      {"name": "FedEx Office", "type": "service", "distance_m": 701.1, "address": "1136 NW Lovejoy Street", "phone": "+1-503-219-9641", "website": "https://local.fedex.com/en-us/or/portland/office-2097", "hours": "Mo-Fr 07:00-20:00; Sa 08:00-17:00"},
+      {"name": "Wells Fargo", "type": "bank", "distance_m": 756.1, "address": "NW 23rd Ave area", "hours": "Mo-Fr 09:00-18:00; Sa 10:00-14:00"},
+      {"name": "U.S. Bank", "type": "bank", "distance_m": 758.4, "address": "1040 NW Lovejoy Street", "hours": "Mo-Fr 09:00-18:00; Sa 10:00-14:00"},
+      {"name": "Bank of America", "type": "bank", "distance_m": 800.0, "address": "Portland financial centers area", "hours": "Mo-Th 09:30-17:30; Fr 09:30-18:00; Sa 10:00-13:00"},
+      {"name": "Cyclepath West", "type": "bicycle_shop", "distance_m": 1290.0, "address": "2714 NW Thurman Street", "phone": "+1-503-222-3276", "website": "https://www.cyclepathpdx.com/", "hours": "We-Fr 09:00-18:00; Sa 09:00-17:00; Su 09:30-16:30"}
+    ],
+    "note": "Updated from 14 to 20 entries — added BMO (235m), Wells Fargo branch, U.S. Bank branch, Chase Bank, Bank of America, FedEx Office, and Cyclepath West."
+  },
+  "entertainment": {
+    "count": 2,
+    "avg_distance_m": 650,
+    "min_distance_m": 494,
+    "features": [
+      {"name": "McMenamins Tavern & Pool", "type": "pub/bar", "distance_m": 494.0, "address": "1716 NW 23rd Avenue", "phone": "+1-503-227-0929", "website": "https://www.mcmenamins.com/tavern-pool"},
+      {"name": "Jo Bar", "type": "bar", "distance_m": 503.7, "address": "715 NW 23rd Avenue", "website": "https://jobarpdx.net/"}
+    ],
+    "note": "No cinemas, theaters, or music venues within 1.5km. Portland's entertainment district is concentrated downtown (~3km south)."
+  },
+  "artwork": {
+    "count": 1,
+    "features": [
+      {"name": "Large Metal Pigs", "type": "artwork", "distance_m": 400.0, "address": "Near NW 23rd Avenue & Marshall"}
+    ]
+  },
+  "groceries": {
+    "count": 3,
+    "avg_distance_m": 668,
+    "min_distance_m": 600,
+    "note": "Only 3 options within 1.5km — Zupan's (955m) is the closest full supermarket. Consider larger-format retailers in the Pearl District for variety."
+  }
+}
