@@ -49,6 +49,25 @@
 
 Full categorized amenity data with coordinates, distances, and contact info is available in:
 - **[`data/1234-nw-23rd-avenue.json`](data/1234-nw-23rd-avenue.json)** — Complete walkability, amenities, and livability dataset (1000m radius with 1500m extended context, detailed top-10 listings per category with coordinates)
+- **[`data/osm-amenities-1234-nw-23rd-avenue.json`](data/osm-amenities-1234-nw-23rd-avenue.json)** — OpenStreetMap amenity data including public artwork, sculptures, murals, museums, tourism information boards, galleries, and accommodations
+
+## OSM Cultural & Amenity Highlights
+
+### Public Art & Sculpture
+| Name | Type | Distance |
+|------|------|----------|
+| Large Metal Pigs | Sculpture | 240m |
+| Unnamed Sculpture (B. Schiwetz, Jr.) | Sculpture | 180m |
+| Bella venti-tre e Thurman (Larry Kangas mural) | Mural | 530m |
+| Howard's Way (Lee Kelly sculpture) | Sculpture | 920m |
+| PDX Contemporary Art | Gallery | 950m |
+
+### Museums & Information
+| Name | Type | Distance |
+|------|------|----------|
+| The Freakybuttrue Peculiarium and Museum | Museum | 420m |
+| Vaux's Swifts (wildlife chimney) | Information | 900m |
+| FORESTRY BUILDING II (historical) | Information | 1050m |
 
 ## Data Sources
 - OpenStreetMap (OSM) via OSM MCP Server
@@ -65,6 +84,7 @@ This is an open-source neighborhood profile. Contributions welcome:
 6. Add parks and green space improvements (Northwest District Plan)
 7. Include seasonal/periodic business data (pop-ups, farmers markets)
 8. Verify and update business listings for accuracy
+9. Add OSM cultural & art venue data as new listings are discovered
 
 ## License
 Open data — please credit OpenStreetMap contributors where applicable.
